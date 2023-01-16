@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-#Dijksta's Algorithm with Fibonacci Heap - without Decrease-Key
+#Dijksta's Algorithm with Fibonacci Heap - Decrease-Key
 #Author: Nicko.Creator0
 #December 2022
 
