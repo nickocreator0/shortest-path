@@ -1,7 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
+#Floyd Warshal (aka Roy-Floyd) Algorithm 
+#Code written on 24 December 2022
+#Author: Nicko.Creator0
 
 
 from copy import copy, deepcopy
